@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Recombina
+- 👋 Hi, I’m @RecombinantAI
 
 This is a public workspace for my ChatGPT plugin for authorized Recombinant AI+ users!  
 The free tier of my plugin allows read-only functions, however in order to unlock the full power of RAI, you need room to play!
